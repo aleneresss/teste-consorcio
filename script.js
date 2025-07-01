@@ -1,12 +1,12 @@
 function capturarCarta(){
 
     const comissao = {
-      1: {leve: 0.00035, pesada: 0.0012},
-      2: {leve: 0.00018, pesada: 0.0008},
-      3: {leve: 0.00022, pesada: 0.0010},
-      4: {leve: 0.00020, pesada: 0.0012},
-      5: {leve: 0.00010, pesada: 0.0012},
-      6: {leve: 0.00015, pesada: 0.0014},
+      1: {leve: 0.00035, pesada: 0.00022},
+      2: {leve: 0.00018, pesada: 0.00010},
+      3: {leve: 0.00022, pesada: 0.00015},
+      4: {leve: 0.00020, pesada: 0.00020},
+      5: {leve: 0.00010, pesada: 0.00013},
+      6: {leve: 0.00015, pesada: 0.00040},
     }
 
     const tipos = ['leve', 'pesada'];
