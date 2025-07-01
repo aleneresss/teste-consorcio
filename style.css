@@ -275,12 +275,12 @@ strong {
 .chain-shape {
     width: 60px;
     aspect-ratio: 101 / 69;
-    background-color: var(--main-color); /* Deve ser uma cor visível sólida */
-    mask-image: url('favicon.png');
+    background-color: #00cc66; /* Deve ser uma cor visível sólida */
+    mask-image: url('/favicon.png');
     mask-size: contain;
     mask-repeat: no-repeat;
     mask-position: center;
-    -webkit-mask-image: url('favicon.png');
+    -webkit-mask-image: url('/favicon.png');
     -webkit-mask-size: contain;
     -webkit-mask-repeat: no-repeat;
     -webkit-mask-position: center;
